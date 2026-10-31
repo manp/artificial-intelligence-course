@@ -10,7 +10,6 @@
 |---|---|
 | [جلسه‌ها](sessions/) | مطالب جلسات؛ هر جلسه یک پوشه |
 | [جلسهٔ اول — تعریف و مفاهیم پایه](sessions/1-intro/01_artificial_intelligence.md) | مطلب کامل جلسهٔ اول |
-| [پاسخ‌نامهٔ سنجش جلسهٔ اول](sessions/1-intro/01_artificial_intelligence_answers.md) | ویژهٔ مدرس |
 
 ## 🗂 ساختار مخزن
 
@@ -18,7 +17,6 @@
 |---|---|
 | `sessions/` | جلسات درس؛ هر جلسه یک پوشه با تاپیک‌های آن روز |
 | `sessions/1-intro/01_artificial_intelligence.md` | جلسهٔ اول: تعریف، مفاهیم، دسته‌بندی‌ها و پرسش‌های بنیادی |
-| `sessions/1-intro/01_artificial_intelligence_answers.md` | پاسخ‌نامهٔ سؤالات سنجش (ویژهٔ مدرس) |
 
 ## 📚 جلسات
 
